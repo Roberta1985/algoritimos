@@ -3,8 +3,8 @@ package algorithmsandconstructs;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import algorithmsandconstructs.FeedFactoryInterface;
-import algorithmsandconstructs.FeedInterface;
+import algorithmsandconstructs.s2019148.*;
+import algorithmsandconstructs.*;
 
 // Modify this to match your package
 import algorithmsandconstructs.s2019148.FeedFactory;
